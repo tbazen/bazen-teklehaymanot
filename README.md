@@ -2,7 +2,7 @@
 
 I am Software Engineer at [BETTER Mobile Security](https://www.better.mobi) solving problems using tech-stack like .NET, React,TypeScript, Python and more.
 
-- 👨 Know more about me at [Linkedin](https://www.linkedin.com/in/bazen-teklehaymanot-b0ba49137)
+- 👨 Let's connect on [Linkedin](https://www.linkedin.com/in/bazen-teklehaymanot-b0ba49137)
 <!--
 - ✍️ My personal [blog site](https://dev.to/bazenteklehaymanot)
 -->
